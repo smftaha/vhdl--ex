@@ -1,2 +1,10 @@
+vhdl
 https://github.com/pmassolino/vhdl-examples
 https://github.com/vhdl-examples
+
+
+
+
+
+hw
+https://easyeda.com/carsfan5/spartan6-fpga
