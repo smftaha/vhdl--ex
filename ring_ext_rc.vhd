@@ -29,3 +29,7 @@ begin
     end if;
   end process;
 end behavioral;
+
+--pin (Ro)   ---R (10k)--    |   ----- pin (Rin)
+--                       C (47uF)
+--                        GND          T=0.1Sec
